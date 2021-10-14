@@ -1,3 +1,6 @@
+[![Build LaTeX document](https://github.com/pietrolesci/curriculum_vitae/actions/workflows/compile.yml/badge.svg)](https://github.com/pietrolesci/curriculum_vitae/actions/workflows/compile.yml)
+
+
 Deedy-Resume-Reversed
 =========================
 
