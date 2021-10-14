@@ -11,11 +11,11 @@ jobs:
       - name: Compile LaTeX document
         uses: xu-cheng/latex-action@v2
         with:
-          root_file: deedy_resume-reversed.tex
+          root_file: main.tex
           latexmk_use_xelatex: true
       - name: Store pdf to repo
         uses: actions/upload-artifact@v2
         with:
           name: PDF
-          path: CV_2021.pdf
+          path: main.pdf
 
