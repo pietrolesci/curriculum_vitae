@@ -16,6 +16,5 @@ jobs:
       - name: Store pdf to repo
         uses: actions/upload-artifact@v2
         with:
-          name: PDF
-          path: main.pdf
-
+          name: cv.pdf
+          path: main.pdf  
